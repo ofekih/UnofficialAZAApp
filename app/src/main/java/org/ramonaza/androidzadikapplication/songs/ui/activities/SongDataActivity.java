@@ -15,8 +15,8 @@ import org.ramonaza.androidzadikapplication.songs.ui.fragments.GeneralSongFragme
 
 public class SongDataActivity extends BaseActivity {
 
-    public static final String EXTRA_CONTRUCTION_INFO = "org.ramonaza.unofficialazaapp.CONSTRUCTION_INFO";
-    private static final String EXTRA_LAYER = "org.ramonaza.unofficialazaapp.LAYER_NAME";
+    public static final String EXTRA_CONTRUCTION_INFO = "org.ramonaza.androidzadikapplication.CONSTRUCTION_INFO";
+    private static final String EXTRA_LAYER = "org.ramonaza.androidzadikapplication.LAYER_NAME";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

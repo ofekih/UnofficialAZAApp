@@ -28,7 +28,7 @@ import org.ramonazaapi.rides.DriverInfoWrapper;
  */
 public class AddCustomDriverFragment extends Fragment {
 
-    private static final String PRESET_CONTACT_ID = "org.ramonaza.unofficialazaapp.CONTACT";
+    private static final String PRESET_CONTACT_ID = "org.ramonaza.androidzadikapplication.CONTACT";
 
     private int presetID;
     private ContactInfoWrapper presContact;

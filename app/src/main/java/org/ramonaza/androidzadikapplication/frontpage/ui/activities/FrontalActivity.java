@@ -23,7 +23,7 @@ public class FrontalActivity extends BaseActivity
         implements NavigationDrawerFragment.NavigationDrawerCallbacks,
         ColorBookFragment.ColorBookCallbacks {
 
-    public static final String EXTRA_OPENEDPAGE = "org.ramonaza.unofficialazaapp.OPENED_PAGE";
+    public static final String EXTRA_OPENEDPAGE = "org.ramonaza.androidzadikapplication.OPENED_PAGE";
     public static final int EVENTS_PAGE_INDEX = 0;
     public static final int SONGS_PAGE_INDEX = 1;
     public static final int BLUEBOOK_PAGE_INDEX = 2;

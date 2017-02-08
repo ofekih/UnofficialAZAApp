@@ -22,7 +22,7 @@ import org.ramonaza.androidzadikapplication.R;
  */
 public class ColorBookPageFragment extends Fragment {
 
-    public static final String PAGE_NUMBER = "org.ramonaza.unofficialazaapp.PAGENUM";
+    public static final String PAGE_NUMBER = "org.ramonaza.androidzadikapplication.PAGENUM";
     public static final String PRELOADED_IMAGE = "instance";
     private int pagenum;
     private View rootView;

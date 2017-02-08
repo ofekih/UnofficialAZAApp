@@ -10,7 +10,7 @@ import org.ramonaza.androidzadikapplication.people.rides.ui.fragments.AddCustomD
 
 public class AddCustomDriverActivity extends BaseActivity {
 
-    public static final String PRESET_CONTACT_ID = "org.ramonaza.unofficialazaapp.CONTACT";
+    public static final String PRESET_CONTACT_ID = "org.ramonaza.androidzadikapplication.CONTACT";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

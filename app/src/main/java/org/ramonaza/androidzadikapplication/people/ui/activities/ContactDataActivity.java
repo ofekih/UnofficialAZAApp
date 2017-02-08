@@ -19,8 +19,8 @@ import org.ramonazaapi.contacts.ContactInfoWrapper;
 
 public class ContactDataActivity extends BaseActivity {
 
-    public static final String EXTRA_CONTRUCTION_INFO = "org.ramonaza.unofficialazaapp.CONTACT_ID";
-    public static final String EXTRA_LAYER = "org.ramonaza.unofficialazaapp.LAYER_NAME";
+    public static final String EXTRA_CONTRUCTION_INFO = "org.ramonaza.androidzadikapplication.CONTACT_ID";
+    public static final String EXTRA_LAYER = "org.ramonaza.androidzadikapplication.LAYER_NAME";
     private int inputId;
 
     @Override

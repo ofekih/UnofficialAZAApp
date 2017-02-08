@@ -9,10 +9,10 @@ import org.ramonaza.androidzadikapplication.people.rides.ui.fragments.DisplayRid
 
 public class DisplayRidesActivity extends BaseActivity {
 
-    public static final String EXTRA_ALGORITHM = "org.ramonaza.unofficialazaapp.algorithm";
-    public static final String EXTRA_RETAIN_RIDES = "org.ramonaza.unofficialazaapp.retainrides";
-    public static final String EXTRA_CLUSTER_TYPE = "org.ramonaza.unofficialazaapp.clusterType";
-    public static final String EXTRA_OPTIMIZE = "org.ramonaza.unofficialazaapp.optomizeRides";
+    public static final String EXTRA_ALGORITHM = "org.ramonaza.androidzadikapplication.algorithm";
+    public static final String EXTRA_RETAIN_RIDES = "org.ramonaza.androidzadikapplication.retainrides";
+    public static final String EXTRA_CLUSTER_TYPE = "org.ramonaza.androidzadikapplication.clusterType";
+    public static final String EXTRA_OPTIMIZE = "org.ramonaza.androidzadikapplication.optomizeRides";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

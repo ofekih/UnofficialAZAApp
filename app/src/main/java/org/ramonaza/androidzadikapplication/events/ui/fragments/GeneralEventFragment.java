@@ -24,7 +24,7 @@ import org.ramonazaapi.events.EventInfoWrapper;
  */
 public class GeneralEventFragment extends Fragment {
 
-    private static final String EVENT_DATA = "org.ramonaza.unofficialazaapp.EVENT_DATA";
+    private static final String EVENT_DATA = "org.ramonaza.androidzadikapplication.EVENT_DATA";
     int eventID;
 
     public GeneralEventFragment() {

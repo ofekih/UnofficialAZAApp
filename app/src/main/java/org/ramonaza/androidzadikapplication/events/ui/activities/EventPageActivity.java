@@ -10,7 +10,7 @@ import org.ramonaza.androidzadikapplication.helpers.ui.activities.BaseActivity;
 
 public class EventPageActivity extends BaseActivity {
 
-    public static final String EVENT_DATA = "org.ramonaza.unofficialazaapp.EVENT_DATA";
+    public static final String EVENT_DATA = "org.ramonaza.androidzadikapplication.EVENT_DATA";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

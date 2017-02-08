@@ -10,7 +10,7 @@ import org.ramonaza.androidzadikapplication.people.rides.ui.fragments.RidesDrive
 
 public class RidesDriverManipActivity extends BaseActivity {
 
-    public static final String EXTRA_DRIVERID = "org.ramonaza.unofficialazaapp.DRIVER_ID";
+    public static final String EXTRA_DRIVERID = "org.ramonaza.androidzadikapplication.DRIVER_ID";
     private int driverId;
 
     @Override

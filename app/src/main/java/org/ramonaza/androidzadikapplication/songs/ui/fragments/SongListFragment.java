@@ -17,8 +17,8 @@ import org.ramonazaapi.interfaces.InfoWrapper;
 
 public class SongListFragment extends InfoWrapperTextListFragment {
 
-    public static final String EXTRA_CONTRUCTION_INFO = "org.ramonaza.unofficialazaapp.CONSTRUCTION_INFO";
-    public static final String EXTRA_LAYER = "org.ramonaza.unofficialazaapp.LAYER_NAME";
+    public static final String EXTRA_CONTRUCTION_INFO = "org.ramonaza.androidzadikapplication.CONSTRUCTION_INFO";
+    public static final String EXTRA_LAYER = "org.ramonaza.androidzadikapplication.LAYER_NAME";
 
     /**
      * The fragment argument representing the section number for this

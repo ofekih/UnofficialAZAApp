@@ -4,7 +4,7 @@ android {
     compileSdkVersion 21
     buildToolsVersion "21.0.0"
     defaultConfig {
-        applicationId "org.ramonaza.unofficialazaapp"
+        applicationId "org.ramonaza.androidzadikapplication"
         minSdkVersion 16
         targetSdkVersion 21
         versionCode 13

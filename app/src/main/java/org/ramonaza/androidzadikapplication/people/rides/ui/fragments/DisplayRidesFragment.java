@@ -42,10 +42,10 @@ import java.util.List;
  */
 public class DisplayRidesFragment extends Fragment {
 
-    private static final String EXTRA_ALGORITHM = "org.ramonaza.unofficialazaapp.algorithm";
-    private static final String EXTRA_RETAIN_RIDES = "org.ramonaza.unofficialazaapp.retainrides";
-    private static final String EXTRA_CLUSTER_TYPE = "org.ramonaza.unofficialazaapp.clusterType";
-    private static final String EXTRA_OPTIMIZE = "org.ramonaza.unofficialazaapp.optomizeRides";
+    private static final String EXTRA_ALGORITHM = "org.ramonaza.androidzadikapplication.algorithm";
+    private static final String EXTRA_RETAIN_RIDES = "org.ramonaza.androidzadikapplication.retainrides";
+    private static final String EXTRA_CLUSTER_TYPE = "org.ramonaza.androidzadikapplication.clusterType";
+    private static final String EXTRA_OPTIMIZE = "org.ramonaza.androidzadikapplication.optomizeRides";
 
     private TextView ridesDisplay;
     private ProgressBar mBar;

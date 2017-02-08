@@ -32,7 +32,7 @@ import java.util.Date;
  */
 public class EventNotificationService extends Service {
 
-    public static final String EVENT_DB_ID = "org.ramonaza.unofficialazaapp.eventdbid";
+    public static final String EVENT_DB_ID = "org.ramonaza.androidzadikapplication.eventdbid";
     private static final long TIME_MULTIPLIER = 1000 * 60;
     NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(this);
 

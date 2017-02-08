@@ -10,7 +10,7 @@ import org.ramonaza.androidzadikapplication.people.rides.ui.fragments.RidesConta
 
 public class RidesContactManipActivity extends BaseActivity {
 
-    public static final String EXTRA_CONTACTID = "org.ramonaza.unofficialazaapp.CONTACT_ID";
+    public static final String EXTRA_CONTACTID = "org.ramonaza.androidzadikapplication.CONTACT_ID";
     private int contactID;
 
     @Override
